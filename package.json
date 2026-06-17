@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Helena09-lele/Estudos-json/issues"
   },
-  "homepage": "https://github.com/Helena09-lele/Estudos-json#readme"
+  "homepage": "https://github.com/Helena09-lele/Estudos-json#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
